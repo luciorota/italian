@@ -16,12 +16,12 @@
  */
 // Info
 define('_AM_MODULEADMIN_CONFIG', 'Verifica della configurazione');
-define('_AM_MODULEADMIN_CONFIG_CHMOD', "La cartella '%s' deve avere un chmod '%s' (attualmente è impostata su %s).");
+define('_AM_MODULEADMIN_CONFIG_CHMOD', "La cartella '%s' deve avere un chmod '%s' (attualmente &egrave; impostata su %s).");
 define('_AM_MODULEADMIN_CONFIG_FOLDERKO', "La cartella '%s' non esiste");
 define('_AM_MODULEADMIN_CONFIG_FOLDEROK', "La cartella '%s' esiste");
-define('_AM_MODULEADMIN_CONFIG_PHP', 'PHP minimo richiesto: %s (la tua versione è %s)');
-define('_AM_MODULEADMIN_CONFIG_XOOPS', 'XOOPS minimo richiesto: %s (la tua versione è %s)');
-define('_AM_MODULEADMIN_CONFIG_DB', 'Versione minima richiesta: %s (la tua versione è %s)');
+define('_AM_MODULEADMIN_CONFIG_PHP', 'PHP minimo richiesto: %s (la tua versione &egrave; %s)');
+define('_AM_MODULEADMIN_CONFIG_XOOPS', 'XOOPS minimo richiesto: %s (la tua versione &egrave; %s)');
+define('_AM_MODULEADMIN_CONFIG_DB', 'Versione minima richiesta: %s (la tua versione &egrave; %s)');
 define('_AM_MODULEADMIN_CONFIG_ADMIN', 'Modulo Admin minimo richiesto: %s (la tua versione è %s)');
 // About
 define('_AM_MODULEADMIN_ABOUT_CHANGELOG', 'Registro delle modifiche');
@@ -48,4 +48,4 @@ define('_AM_MODULEADMIN_DASHBOARD', 'Cruscotto');
 define('_AM_MODULEADMIN_ABOUT', 'Informazioni');
 define('_AM_MODULEADMIN_PERMISSIONS', 'Permessi');
 //ModuleAdmin
-define('_AM_MODULEADMIN_ADMIN_FOOTER', "<div class='center smallsmall italic pad5'>Questo modulo è mantenuto dalla <a class='tooltip' rel='external' href='https://xoops.org/' title='Visita la comunità XOOPS'>Comunità XOOPS</a></div>");
+define('_AM_MODULEADMIN_ADMIN_FOOTER', "<div class='center smallsmall italic pad5'>Questo modulo &egrave; mantenuto dalla <a class='tooltip' rel='external' href='https://xoops.org/' title='Visita la comunit&agrave; XOOPS'>Comunità XOOPS</a></div>");
