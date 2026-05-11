@@ -31,7 +31,7 @@ define('RECOMMENDED_EXTENSIONS', 'Estensioni consigliate');
 define('SETTING_NAME', 'Nome impostazione');
 define('RECOMMENDED', 'Consigliato');
 define('CURRENT', 'Attuale');
-define('RECOMMENDED_EXTENSIONS_MSG', 'Queste estensioni non sono necessarie per l\'uso normale, ma potrebbero essere richieste per alcune funzionalità specifiche (come il supporto multilingue o RSS). Pertanto, si consiglia di installarle.');
+define('RECOMMENDED_EXTENSIONS_MSG', 'Queste estensioni non sono necessarie per l\'uso normale, ma potrebbero essere richieste per alcune funzionalit&agrave; specifiche (come il supporto multilingue o RSS). Pertanto, si consiglia di installarle.');
 define('NONE', 'Nessuno');
 define('SUCCESS', 'Successo');
 define('WARNING', 'Avviso');
@@ -66,29 +66,29 @@ define('XOOPS_URLS', 'Posizioni web');
 define('XOOPS_ROOT_PATH_LABEL', 'Percorso fisico della root dei documenti di XOOPS');
 define('XOOPS_ROOT_PATH_HELP', 'Percorso fisico della directory dei documenti di XOOPS (servita) SENZA barra finale');
 define('XOOPS_LIB_PATH_LABEL', 'Directory della libreria di XOOPS');
-define('XOOPS_LIB_PATH_HELP', 'Percorso fisico della directory della libreria di XOOPS SENZA barra finale, per compatibilità futura. Posiziona la cartella fuori da ' . XOOPS_ROOT_PATH_LABEL . ' per renderla sicura.');
+define('XOOPS_LIB_PATH_HELP', 'Percorso fisico della directory della libreria di XOOPS SENZA barra finale, per compatibilit&agrave; futura. Posiziona la cartella fuori da ' . XOOPS_ROOT_PATH_LABEL . ' per renderla sicura.');
 define('XOOPS_DATA_PATH_LABEL', 'Directory dei file di dati di XOOPS');
-define('XOOPS_DATA_PATH_HELP', 'Percorso fisico della directory dei file di dati di XOOPS (scrivibile) SENZA barra finale, per compatibilità futura. Posiziona la cartella fuori da ' . XOOPS_ROOT_PATH_LABEL . ' per renderla sicura.');
+define('XOOPS_DATA_PATH_HELP', 'Percorso fisico della directory dei file di dati di XOOPS (scrivibile) SENZA barra finale, per compatibilit&agrave; futura. Posiziona la cartella fuori da ' . XOOPS_ROOT_PATH_LABEL . ' per renderla sicura.');
 define('XOOPS_URL_LABEL', 'Posizione del sito web (URL)'); // L56
-define('XOOPS_URL_HELP', 'URL principale che verrà utilizzato per accedere all\'installazione di XOOPS'); // L58
+define('XOOPS_URL_HELP', 'URL principale che verr&agrave; utilizzato per accedere all\'installazione di XOOPS'); // L58
 define('LEGEND_CONNECTION', 'Connessione al server');
 define('LEGEND_DATABASE', 'Banca dati'); // L51
 define('DB_HOST_LABEL', 'Nome host del server');    // L27
 define('DB_HOST_HELP', 'Nome host del server del database. Se non sei sicuro, <em>localhost</em> funziona nella maggior parte dei casi'); // L67
 define('DB_USER_LABEL', 'Nome utente');    // L28
-define('DB_USER_HELP', 'Nome dell\'account utente che verrà utilizzato per connettersi al server del database'); // L65
+define('DB_USER_HELP', 'Nome dell\'account utente che verr&agrave; utilizzato per connettersi al server del database'); // L65
 define('DB_PASS_LABEL', 'Parola d\'ordine');    // L52
 define('DB_PASS_HELP', 'Password del tuo account utente del database'); // L68
 define('DB_NAME_LABEL', 'Nome del database');    // L29
-define('DB_NAME_HELP', 'Il nome del database sull\'host. L\'installatore tenterà di creare il database se non esiste'); // L64
+define('DB_NAME_HELP', 'Il nome del database sull\'host. L\'installatore tenter&agrave; di creare il database se non esiste'); // L64
 define('DB_CHARSET_LABEL', 'Set di caratteri del database');
-define('DB_CHARSET_HELP', 'MySQL include il supporto per set di caratteri che consente di memorizzare dati utilizzando una varietà di set di caratteri ed eseguire confronti secondo diverse collazioni.');
+define('DB_CHARSET_HELP', 'MySQL include il supporto per set di caratteri che consente di memorizzare dati utilizzando una variet&agrave; di set di caratteri ed eseguire confronti secondo diverse collazioni.');
 define('DB_COLLATION_LABEL', 'Collation del database');
-define('DB_COLLATION_HELP', 'Una collation è un insieme di regole per confrontare i caratteri in un set di caratteri.');
+define('DB_COLLATION_HELP', 'Una collation &egrave; un insieme di regole per confrontare i caratteri in un set di caratteri.');
 define('DB_PREFIX_LABEL', 'Prefisso tabelle');    // L30
-define('DB_PREFIX_HELP', 'Questo prefisso verrà aggiunto a tutte le nuove tabelle create per evitare conflitti di nomi nel database. Se non sei sicuro, mantieni l\'impostazione predefinita'); // L63
+define('DB_PREFIX_HELP', 'Questo prefisso verr&agrave; aggiunto a tutte le nuove tabelle create per evitare conflitti di nomi nel database. Se non sei sicuro, mantieni l\'impostazione predefinita'); // L63
 define('DB_PCONNECT_LABEL', 'Usa connessione persistente');    // L54
-define('DB_PCONNECT_HELP', "L'impostazione predefinita è 'No'. Lascia vuoto se non sei sicuro"); // L69
+define('DB_PCONNECT_HELP', "L'impostazione predefinita &egrave; 'No'. Lascia vuoto se non sei sicuro"); // L69
 define('DB_DATABASE_LABEL', 'Banca dati');
 define('LEGEND_ADMIN_ACCOUNT', 'Account amministratore');
 define('ADMIN_LOGIN_LABEL', 'Login amministratore'); // L37
@@ -105,7 +105,7 @@ define('IS_NOT_WRITABLE', '%s NON è scrivibile.'); // L83
 define('IS_WRITABLE', '%s è scrivibile.'); // L84
 define('XOOPS_PATH_FOUND', 'Percorso trovato.');
 //define('READY_CREATE_TABLES', 'Nessuna tabella XOOPS rilevata.<br>L\'installatore è ora pronto per creare le tabelle di sistema XOOPS.');
-define('XOOPS_TABLES_FOUND', 'Le tabelle di sistema XOOPS esistono già nel tuo database.'); // L131
+define('XOOPS_TABLES_FOUND', 'Le tabelle di sistema XOOPS esistono gi&agrave; nel tuo database.'); // L131
 define('XOOPS_TABLES_CREATED', 'Le tabelle di sistema XOOPS sono state create.');
 //define('READY_INSERT_DATA', 'L\'installatore è ora pronto per inserire i dati iniziali nel tuo database.');
 //define('READY_SAVE_MAINFILE', 'L\'installatore è ora pronto per salvare le impostazioni specificate in <em>mainfile.php</em>.');
@@ -137,9 +137,9 @@ define('ERR_WRITING_CONSTANT', 'Scrittura della costante %s fallita.'); // L122
 define('ERR_COPY_MAINFILE', 'Impossibile copiare il file di distribuzione in %s');
 define('ERR_WRITE_MAINFILE', 'Impossibile scrivere in %s. Verifica i permessi del file e riprova.');
 define('ERR_READ_MAINFILE', 'Impossibile aprire %s per la lettura');
-define('ERR_INVALID_DBCHARSET', "Il set di caratteri '%s' non è supportato.");
-define('ERR_INVALID_DBCOLLATION', "La collation '%s' non è supportata.");
-define('ERR_CHARSET_NOT_SET', 'Il set di caratteri predefinito non è impostato per il database XOOPS.');
+define('ERR_INVALID_DBCHARSET', "Il set di caratteri '%s' non &egrave; supportato.");
+define('ERR_INVALID_DBCOLLATION', "La collation '%s' non &egrave; supportata.");
+define('ERR_CHARSET_NOT_SET', 'Il set di caratteri predefinito non &egrave; impostato per il database XOOPS.');
 define('_INSTALL_CHARSET', 'ISO-8859-1');
 define('SUPPORT', 'Supporto');
 define('LOGIN', 'Autenticazione');
@@ -152,7 +152,7 @@ define('ZLIB_COMPRESSION', 'Compressione Zlib');
 define('IMAGE_FUNCTIONS', 'Funzioni per immagini');
 define('IMAGE_METAS', 'Metadati delle immagini (exif)');
 define('FILTER_FUNCTIONS', 'Funzioni di filtro');
-define('ADMIN_EXIST', 'L\'account amministratore esiste già.');
+define('ADMIN_EXIST', 'L\'account amministratore esiste gi&agrave;.');
 define('CONFIG_SITE', 'Configurazione del sito');
 define('CONFIG_SITE_TITLE', 'Configurazione del sito');
 define('MODULES', 'Installazione dei moduli');
@@ -185,7 +185,7 @@ define('CHMOD_CHGRP_ERROR', 'L\'installatore potrebbe non essere in grado di scr
 //2.5.9
 define("CURL_HTTP", "Libreria URL Client (cURL)");
 define('XOOPS_COOKIE_DOMAIN_LABEL', 'Dominio dei cookie per il sito web');
-define('XOOPS_COOKIE_DOMAIN_HELP', 'Dominio per impostare i cookie. Può essere vuoto, l\'host completo dall\'URL (www.example.com), o il dominio registrato senza sottodomini (example.com) per condividere tra sottodomini (www.example.com e blog.example.com).');
+define('XOOPS_COOKIE_DOMAIN_HELP', 'Dominio per impostare i cookie. Pu&ograve; essere vuoto, l\'host completo dall\'URL (www.example.com), o il dominio registrato senza sottodomini (example.com) per condividere tra sottodomini (www.example.com e blog.example.com).');
 define('INTL_SUPPORT', 'Funzioni di internazionalizzazione');
 define('XOOPS_SOURCE_CODE', "XOOPS su GitHub");
 define('XOOPS_INSTALLING', 'Installazione in corso');
