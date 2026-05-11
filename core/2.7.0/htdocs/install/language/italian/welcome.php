@@ -6,15 +6,15 @@
 
 $content = '
 <p>
-    <abbr title="eXtensible Object-Oriented Portal System">XOOPS</abbr> è un open source
-    Sistema di pubblicazione Web orientato agli oggetti scritto in PHP. È uno strumento ideale per
-    sviluppo di siti Web di comunità dinamiche di piccole e grandi dimensioni, portali intraaziendali, portali aziendali, weblog e molto altro.
+    <abbr title="eXtensible Object-Oriented Portal System">XOOPS</abbr> &egrave; un open source
+    Sistema di pubblicazione Web orientato agli oggetti scritto in PHP. &Egrave; uno strumento ideale per
+    sviluppo di siti Web di comunit&agrave; dinamiche di piccole e grandi dimensioni, portali intraaziendali, portali aziendali, weblog e molto altro.
 </p>
 <p>
     XOOPS viene rilasciato secondo i termini del
     <a href="https://www.gnu.org/licenses/gpl-2.0.html" rel="external">GNU Licenza pubblica generale (GPL)</a>
-    versione 2 o successiva ed è gratuito da utilizzare e modificare.
-    La ridistribuzione è gratuita purché rispetti i termini di distribuzione di GPL.
+    versione 2 o successiva ed &egrave; gratuito da utilizzare e modificare.
+    La ridistribuzione &egrave; gratuita purché rispetti i termini di distribuzione di GPL.
 </p>
 <h3>Requisiti</h3>
 <ul>
@@ -29,7 +29,7 @@ $content = '
     <li>Preparare l\'account utente e concedere all\'utente l\'accesso al database.</li>
     <li>Rendi scrivibili queste directory e file: %s</li>
     <li>Per considerazioni di sicurezza, si consiglia vivamente di spostare fuori le due directory seguenti <a href="https://privacyaustralia.net/phpsec/projects/guide/php-security-guide-databases-and-sql/" rel="external">radice del documento</a> e cambia i nomi delle cartelle: %s</li>
-    <li>Crea (se non già presente) e rendi scrivibili queste directory: %s</li>
+    <li>Crea (se non gi&agrave; presente) e rendi scrivibili queste directory: %s</li>
     <li>Attiva i cookie e il JavaScript del tuo browser.</li>
 </ol>
 <h3>Note speciali</h3>
