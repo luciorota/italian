@@ -14,12 +14,12 @@ define('_XOOPS_SMARTY4_SCANNER_MATCH', 'Corrispondenza');
 define('_XOOPS_SMARTY4_SCANNER_FILE', 'File');
 define('_XOOPS_SMARTY4_SCANNER_FIXED', 'Conteggio Correzioni');
 define('_XOOPS_SMARTY4_SCANNER_MANUAL_REVIEW', 'Richiesta revisione manuale');
-define('_XOOPS_SMARTY4_SCANNER_AUTOFIX', 'Può essere corretto automaticamente: ogni variabile di elemento verrà rinominata aggiungendo "_item" (ad esempio "foo" diventa "foo_item").');
+define('_XOOPS_SMARTY4_SCANNER_AUTOFIX', 'Pu&ograve; essere corretto automaticamente: ogni variabile di elemento verrà rinominata aggiungendo "_item" (ad esempio "foo" diventa "foo_item").');
 define('_XOOPS_SMARTY4_SCANNER_NOT_WRITABLE', 'Non Scrivibile');
 
 define('_XOOPS_SMARTY4_RESCAN_OPTIONS', 'Opzioni di Riscansione');
 
-define('_XOOPS_SMARTY4_FIX_BUTTON', 'Seleziona la casella "Sì" qui sotto e poi clicca sul pulsante Esegui Scansione per provare a correggere automaticamente eventuali problemi trovati.');
+define('_XOOPS_SMARTY4_FIX_BUTTON', 'Seleziona la casella "S&igrave;" qui sotto e poi clicca sul pulsante Esegui Scansione per provare a correggere automaticamente eventuali problemi trovati.');
 define('_XOOPS_SMARTY4_SCANNER_MARK_COMPLETE', 'Segna come Completato');
 
 define('_XOOPS_SMARTY4_TEMPLATE_DIR', 'Directory dei Template (opzionale)');
